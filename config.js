@@ -21,31 +21,31 @@ global.APIKeys = {
 
 //═══════[modification]════════\\
 global.apilol = 'fleyvin_soft' //YOUR APIKEY LolHuman
-global.owner = ['6288219453065','6283110011351'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['6288219453065'] //another owner number
-global.premium = ['6288219453065'] //premium number
-global.pengguna = 'Kim' //username
-global.botnma = 'Zah Bot' //bot name
-global.fake = 'Kim ' //FAKE fotter
-global.ownernma = 'Kim' //owner name
-global.packname = 'Zah0BOT' //sticker package name
-global.author = 'By Kim' //sticker author name
+global.owner = ['6283160624440','6283110011351'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['6283160624440'] //another owner number
+global.premium = ['6283160624440'] //premium number
+global.pengguna = 'Reghy Botz' //username
+global.botnma = 'Reghy Botz' //bot name
+global.fake = 'Reghy Botz ' //FAKE fotter
+global.ownernma = 'Reghy Botz' //owner name
+global.packname = 'Reghy Botz' //sticker package name
+global.author = 'By Reghy Botz' //sticker author name
 global.autoread = 'on' //ganti 'on' untuk mengaktifkan auto tead, ganti 'off' untuk mematikan auto read
 
 //═══════[media sosial]════════\\
-global.groupwa = 'https://chat.whatsapp.com/LfZCmMPzBdGLQ53YTyvWW' //group WhatsApp nya
+global.groupwa = 'https://chat.whatsapp.com/H9r9ZLroiSeHAQDOZvHN3E' //group WhatsApp nya
 
-global.medsos1 = 'Zah Bot'
-global.medsos1nama = 'Zah Bot'
-global.medsos1url = 'Zah Bot'
+global.medsos1 = 'Reghy Botz'
+global.medsos1nama = 'Reghy Botz'
+global.medsos1url = 'Reghy Botz'
 
-global.medsos2 = 'Zah Bot'
-global.medsos2nama = 'Zah Bot'
-global.medsos2url = 'Zah Bot'
+global.medsos2 = 'Reghy Botz'
+global.medsos2nama = 'Reghy Botz'
+global.medsos2url = 'Reghy Botz'
 
-global.medsos3 = 'Zah Bot'
-global.medsos3nama = 'Zah Bot'
-global.medsos3url = 'Zah Bot'
+global.medsos3 = 'Reghy Botz'
+global.medsos3nama = 'Reghy Botz'
+global.medsos3url = 'Reghy Botz'
 
 //═══════[sewa, donasi, script, thnks to]════════\\
 //teks sewa bot
@@ -97,10 +97,10 @@ global.sewabot = `────❲ 𝚂𝚎𝚠𝚊 𝙱𝚘𝚝 ❳────
 //teks donasi
 global.donasi = `〔 𝙳𝙾𝙽𝙰𝚃𝙴 〕
                     
-⭔ PULSA : 09630883352
-⭔ DANA : 09630883352
-⭔ OVO : 09630883352
-⭔ ShopeePay : 09630883352
+⭔ PULSA : 083160624440
+⭔ DANA : 083160624440
+⭔ OVO : 083160624440
+⭔ ShopeePay : 083160624440
 ⭔ QRIS : SCAN FOTO DI ATAS
 
  𝘜𝘢𝘯𝘨 𝘥𝘰𝘯𝘢𝘴𝘪 𝘢𝘬𝘢𝘯 𝘥𝘪 𝘬𝘶𝘮𝘱𝘶𝘭𝘬𝘢𝘯 𝘥𝘢𝘯 𝘥𝘪 𝘬𝘦𝘭𝘰𝘭𝘢 𝘰𝘭𝘦𝘩 𝘍𝘭𝘦𝘺𝘷𝘪𝘯 𝘛𝘦𝘢𝘮 𝘶𝘯𝘵𝘶𝘬 𝘥𝘪𝘢𝘭𝘰𝘬𝘢𝘴𝘪𝘬𝘢𝘯 𝘥𝘢𝘭𝘢𝘮 𝘱𝘦𝘮𝘣𝘶𝘢𝘵𝘢𝘯 𝘴𝘦𝘳𝘵𝘢 𝘱𝘦𝘯𝘨𝘦𝘮𝘣𝘢𝘯𝘨𝘢𝘯 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘺𝘢𝘯𝘨 𝘣𝘦𝘳𝘮𝘢𝘯𝘧𝘢𝘢𝘵 𝘣𝘢𝘨𝘪 𝘣𝘢𝘯𝘺𝘢𝘬 𝘰𝘳𝘢𝘯𝘨.
@@ -158,6 +158,7 @@ global.tqto =`┏━━⬣ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎
 ┃ *Nabi Muhammad SAW*
 ┃⬡ family dev bot
 ┃⬡ xZrinva
+┃⬡ Reghy Botz
 ┃⬡ wahyu
 ┃⬡ xeon
 ┃⬡ zenz
@@ -169,6 +170,7 @@ global.tqto =`┏━━⬣ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎
 ┗
 ┏━━⬣ *Energy Contribution*
 ┃⬡ xZrinva
+┃⬡ Reghy Botz
 ┃⬡ xeon
 ┃⬡ zenz
 ┃⬡ Fleyvin Team
